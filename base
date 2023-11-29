@@ -1,0 +1,61 @@
+id,pessoa,virtude,qtdVirtude,forca
+1,Aline,Humanidade,1,Amor
+2,Aline,Transcendência,2,Espiritualidade
+3,Aline,Transcendência,2,Apreciação da beleza
+4,Aline,Justiça,1,Justiça
+5,Aline,Temperança,2,Perdão
+6,Adna,Transcendência,1,Humor
+7,Adna,Sabedoria,2,Critério
+8,Adna,Sabedoria,2,Amor ao aprendizado
+9,Adna,Humanidade,1,Amor
+10,Adna,Temperança,1,Prudência
+11,Alessandra,Humanidade,1,Amor
+12,Alessandra,Sabedoria,2,Amor ao aprendizado
+13,Alessandra,Sabedoria,2,Criatividade
+14,Alessandra,Transcendência,1,Espiritualidade
+15,Alessandra,Justiça,1,Critério
+16,Ananda,Temperança,1,Perdão
+17,Ananda,Sabedoria,1,Curiosidade
+18,Ananda,Humanidade,1,Inteligência Social
+19,Ananda,Justiça,1,Liderança
+20,Ananda,Coragem,1,Vitalidade
+21,Francione,Transcendência,2,Apreciação da beleza
+22,Francione,Transcendência,2,Espiritualidade
+23,Francione,Justiça,2,Justiça
+24,Francione,Justiça,2,Liderança
+25,Francione,Humanidade,1,Inteligência Social
+26,Franciele,Coragem,1,integridade
+27,Franciele,Humanidade,2,Generosidade
+28,Franciele,Humanidade,2,Amor
+29,Franciele,Justiça,1,Justiça
+30,Franciele,Temperança,1,Prudência
+31,Jonatha,Coragem,2,integridade
+32,Jonatha,Coragem,2,Bravura
+33,Jonatha,Humanidade,1,Generosidade
+34,Jonatha,Justiça,1,Critério
+35,Jonatha,Sabedoria,2,Amor ao aprendizado
+36,Mauricio,Sabedoria,2,Criatividade
+37,Mauricio,Sabedoria,2,Amor ao aprendizado
+38,Mauricio,Transcendência,1,Esperança
+39,Mauricio,Justiça,2,Liderança
+40,Mauricio,Justiça,2,Trabalho em equipe
+41,Paulo,Coragem,2,Integridade
+42,Paulo,Sabedoria,2,Perspectiva
+43,Paulo,Sabedoria,2,Amor ao aprendizado
+44,Paulo,Temperança,1,Prudência
+45,Paulo,Justiça,1,Justiça
+46,Priscila,Sabedoria,2,Amor ao aprendizado
+47,Priscila,Sabedoria,2,Critério
+48,Priscila,Coragem,1,integridade
+49,Priscila,Temperança,1,Autocontrole
+50,Priscila,Justiça,1,Liderança
+51,Rodrigo,Humanidade,2,Generosidade
+52,Rodrigo,Humanidade,2,Amor
+53,Rodrigo,Transcendência,1,Espiritualidade
+54,Rodrigo,Sabedoria,2,Amor ao aprendizado
+55,Rodrigo,Coragem,1,integridade
+56,Suellen,Humanidade,2,Inteligência Social
+57,Suellen,Humanidade,2,Generosidade
+58,Suellen,Transcendência,1,Humor
+59,Suellen,Justiça,2,Justiça
+60,Suellen,Justiça,2,Liderança
